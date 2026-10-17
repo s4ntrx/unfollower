@@ -17,13 +17,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mwakidenis"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-MWAKIDENIS-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/s4ntrx"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-S4NTRX-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mwakidenis?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mwakidenis?label=Followers&style=social"></a>
-<a href="https://github.com/mwakidenis/unfollower/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mwakidenis/unfollower?&style=social"></a>
-<a href="https://github.com/mwakidenis/unfollower/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mwakidenis/unfollower?style=social"></a>
-<a href="https://github.com/mwakidenis/unfollower/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mwakidenis/unfollower?label=Watching&style=social"></a>
+<a href="https://github.com/s4ntrx?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/s4ntrx?label=Followers&style=social"></a>
+<a href="https://github.com/s4ntrx/unfollower/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/s4ntrx/unfollower?&style=social"></a>
+<a href="https://github.com/s4ntrx/unfollower/network/members"><img title="Forks" src="https://img.shields.io/github/forks/s4ntrx/unfollower?style=social"></a>
+<a href="https://github.com/mwakidenis/unfollower/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/s4ntrx/unfollower?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -35,7 +35,7 @@
   
 - This is essential — GitHub Actions only run on **your own** fork, not on this repo.
 
-<a href="https://github.com/mwakidenis/unfollower/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK" width="150"></a>
+<a href="https://github.com/s4ntrx/unfollower/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
